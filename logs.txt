@@ -1,0 +1,50 @@
+
+
+commit 6114090152ed56d1f6a5ff7d6dbce487e2be594b (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: a6be316 c09285c
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 14:42:21 2023 +0200
+
+    Merge branch 'bug2'
+
+commit c09285c324c219165713f2da4d08278e6e0fc66a (origin/bug2, bug2)
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 14:11:27 2023 +0200
+
+    Fix wronh condition in filterOddNumbers
+
+commit a6be316f0c983b9c1d972dfec438ec4db8c37f10 (origin/bug1, bug1)
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 14:07:34 2023 +0200
+
+    Fix wrong loop for reading
+
+commit a9fc911575a6c3e4551b9136bb7bc5f0a61635e1 (origin/bug1,bug2,bug3, bug1,bug2,bug3)
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 13:34:06 2023 +0200
+
+    Add java class
+
+commit ed0b26141b34f4594f2c617fe9efcc72b3e1ad88 (origin/tmp, tmp)
+Author: MarijaUsti <129605807+marijaustijanoska@users.noreply.github.com>
+Date:   Sun Apr 9 13:23:41 2023 +0200
+
+    Delete README.md
+
+commit c96a865060577c5811e4c350011002bc008ffb05
+Author: MarijaUsti <129605807+marijaustijanoska@users.noreply.github.com>
+Date:   Sun Apr 9 13:14:52 2023 +0200
+
+    Delete SILab1.java directory
+
+commit c5fea436314dc76751cae8cb5f2a34946e532f5c
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 13:01:17 2023 +0200
+
+    Add java class
+
+commit 0cfd8f5c5c8cd3c9dc52a49f984767b6dbb78654
+Author: marijaustijanoska <marija.ustijanoska@yahoo.com>
+Date:   Sun Apr 9 12:53:26 2023 +0200
+
+    Something

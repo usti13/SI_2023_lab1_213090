@@ -1,0 +1,30 @@
+1.профил marijaustijanoska.
+2.Со кликање на settings/repositories го променив името.
+3.Со кликање на repositories додадов remote репозиториум со име SI_2023_lab1_213090 и го направив приватен.
+4.Со командата mkdir направив директориум и со командата cd влегов во тој директориум.На крај со командата git init го иницијализирав тој директориум.
+5.Со комадната git remote add origin ги поврзав.
+6.Датотека се креира со notepad README.md.Запишуваме име,презиме,индекс.Па со git add README.md i git commit -m "Something.
+7.Исто како и во барање бр 6.
+8.Со git push origin master.
+9.Прво направив со checkout master па посебо за секоја git branch bug1 2 3 креирав 3 гранки.
+10.Git checkout bug1.
+11.Notepad SILab.java ја поправив грешката и потоа исто како во барање 6..
+12.Git log checkout bug2 се префрламе.
+13.Исто како и во барање 11 со друга грешка.
+14.Git log checkout bug3 се префрламе.
+15.Исто како и во барање 11 со друга грешка.
+16.Синхронизација со git push origin bug1 2 3.
+17.git checkout master.
+18.git merge bug1 нема конфликти спојуваме со fast forwarding.
+19.git push origin --all.
+20.git merge bug2.нема конфликти спојуваме со ort.
+21.git push origin --all.
+22.git checkout bug3
+23. git rebase master.
+24.git checkotu master
+25.git merge bug3.
+26.git pull origin master --- git push origin --force --all
+27.notepad logs.txt-git add notepad logs.txt
+notepad 213090.txt-git add notepad logs.txt
+git commit -am "Final"
+28.git pull origin master-git push origin -all
